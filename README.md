@@ -5,6 +5,7 @@ I dive into the world of bike data with the thrilling project using Excel, Table
 Uncover fascinating insights, from rider patterns to bike preferences, all analyzed with cutting-edge tools.
 
 2. Unraveling the Missing Data Mystery
+   
 I embark on a research journey exploring methods to handle missing data in research studies.
 Harness the power of Excel, R, and Python to unravel complexities and ensure data integrity.
 
